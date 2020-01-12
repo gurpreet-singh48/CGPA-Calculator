@@ -1,0 +1,4 @@
+CGPA Calculator 1.0 	-> 	Core Product Set Up
+CGPA Calculator 2.0 	-> 	Fully New UI (Theme) + Added more features
+CGPA Calculator 3.0	->	Class Implementation -- Code Reduced from 2526 lines to 945 lines (Approx.)
+CGPA Calculator 3.1     ->	Added Loading after Successful Login 
